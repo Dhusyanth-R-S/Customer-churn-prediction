@@ -137,6 +137,11 @@ Like typical churn datasets, the minority class (Churn = Yes) is hard and recall
 
 ---
 
+## Top 10 features affecting churn
+
+<img width="809" height="393" alt="image" src="https://github.com/user-attachments/assets/4378ae81-0aaa-4dec-9f52-27b34a7fc729" />
+
+---
 ## 💾 Saving the Final Model
 
 The complete pipeline (preprocessing + tuned model) was saved as:
