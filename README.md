@@ -115,6 +115,9 @@ After comparing all models:
 - **RandomForestClassifier (tuned version)**  
   showed **consistently better performance**, balanced generalization, and stability.
 
+<img width="1458" height="491" alt="image" src="https://github.com/user-attachments/assets/ab19172c-ce88-4079-a01c-d7137c877077" />
+
+
 This tuned RF model was placed inside the final pipeline.
 
 ---
