@@ -180,18 +180,13 @@ print(pred)
 ```
 customer_churn_prediction/
 │
-├── data/
-│     └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│
-├── notebook/
-│     └── customer_churn_project_NoteBook.ipynb
-│
-├── models/
-│     └── churn_model.pkl
-│
+├── README.md
 ├── requirements.txt
-└── README.md
-```
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+├── churn_model.pkl
+├── customer_churn_project_NoteBook.ipynb
+├── customer_churn_report.pdf
+└── customer_churn_presentation.pdf
 
 ---
 
