@@ -43,9 +43,7 @@ This project implements a **full ML lifecycle**, including:
 
 Dataset stored in:
 
-```
-[Dataset](https://github.com/Dhusyanth-R-S/Customer-churn-prediction/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv)
-```
+[Click here for Dataset](https://github.com/Dhusyanth-R-S/Customer-churn-prediction/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv)
 
 ---
 
