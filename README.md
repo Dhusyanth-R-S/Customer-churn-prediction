@@ -44,7 +44,7 @@ This project implements a **full ML lifecycle**, including:
 Dataset stored in:
 
 ```
-data/WA_Fn-UseC_-Telco-Customer-Churn.csv
+[Dataset](https://github.com/Dhusyanth-R-S/Customer-churn-prediction/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv)
 ```
 
 ---
@@ -149,10 +149,6 @@ Using:
 ```python
 joblib.dump(rf_pipeline, "models/churn_model.pkl")
 ```
-
-This makes the model production-ready.
-
----
 
 ## ▶️ How to Use the Saved Model
 
