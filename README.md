@@ -97,7 +97,7 @@ Trained and evaluated multiple algorithms:
 - Decision Tree Classifier  
 - Random Forest Classifier  
 - Gradient Boosting Classifier  
-- XGBoost Classifier (if included)  
+- XGBoost Classifier 
 
 ### 🔍 Hyperparameter Tuning
 
